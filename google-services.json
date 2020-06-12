@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "874893357451",
+    "firebase_url": "https://bmw-wallpapers-221ca.firebaseio.com",
+    "project_id": "bmw-wallpapers-221ca",
+    "storage_bucket": "bmw-wallpapers-221ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874893357451:android:994d77d059716df6853f8e",
+        "android_client_info": {
+          "package_name": "com.erikharutyunyan.bmwwallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874893357451-n634dt274up3oggvfbn4bblvqsrtcqp1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.erikharutyunyan.bmwwallpapers",
+            "certificate_hash": "9e9fec566d249ebaa3705a84e2dd50cbfdba0973"
+          }
+        },
+        {
+          "client_id": "874893357451-g20h1a225aba86qolqak5pm1r7mubnaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLWqrD7iqdGLBUnuYioT7F1qJspkyFWMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874893357451-g20h1a225aba86qolqak5pm1r7mubnaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
